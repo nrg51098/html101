@@ -1,3 +1,27 @@
 body{
     background-color: orange;
 }
+
+.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow:hidden;
+    background-color: black;
+}
+
+.nav-item{
+    float: left;
+}
+
+.nav-item a{
+    display: block;
+    color: rgb(35, 24, 141);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-item a:hover{
+    background-color: cornsilk;
+}
