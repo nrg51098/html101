@@ -1,1 +1,1 @@
-alert("I am linked");
+console.log("connected");
